@@ -9,7 +9,7 @@ use Symfony\Component\Routing\Exception\ResourceNotFoundException;
 
 /**
  * 
- * Tests for an api 
+ * Tests for an api calls for GET 
  *
  * @author es
  */
