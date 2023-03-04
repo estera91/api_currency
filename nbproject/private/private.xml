@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/api_currency/config/packages/api_platform.yaml</file>
+            <file>file:/var/www/api_currency/.env</file>
+            <file>file:/var/www/api_currency/src/Entity/CurrencyDict.php</file>
+            <file>file:/var/www/api_currency/src/Entity/Task.php</file>
+            <file>file:/var/www/api_currency/src/Controller/TaskController.php</file>
+            <file>file:/var/www/api_currency/.git/config</file>
+            <file>file:/var/www/api_currency/config/routes.yaml</file>
+            <file>file:/var/www/api_currency/config/packages/framework.yaml</file>
+            <file>file:/var/www/api_currency/templates/task/new.html.twig</file>
+        </group>
+    </open-files>
+</project-private>
